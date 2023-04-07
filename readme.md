@@ -3,7 +3,7 @@
 
 Projeto desenvolvido utilizando React + Typescript.
 
-- [Link do Projeto]()
+- [Link do Projeto](https://moraiskaua-todo-list.netlify.app)
 
 ### Instalar:
 
